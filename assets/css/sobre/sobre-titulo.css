@@ -1,0 +1,6 @@
+.sobre__titulo {
+  color: #8d0606; /*para obtermos a cor vermelha/vinho*/
+  font-family: Pacifico, cursive; /*usarmos a fonte importada da API do Google ou qualquer fonte cursiva caso a importação não seja feita corretamente*/
+  font-size: 3.1875rem;
+}
+

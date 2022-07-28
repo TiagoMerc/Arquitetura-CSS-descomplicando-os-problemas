@@ -1,0 +1,6 @@
+.banner__imagem {
+  height: calc(100vh - 72px);
+  width: 100%;
+}
+
+/*Informa para a imagem, no seu tamanho 100 do viewport, tira 72px para aparecer*/
