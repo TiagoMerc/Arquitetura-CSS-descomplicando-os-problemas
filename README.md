@@ -11,6 +11,9 @@ curso de arquitetura da Alura.
 
 - Deixe o seu site responsivo.
 
+GitHub Pages: 
+[Acessem](https://tiagomerc.github.io/Arquitetura-CSS-descomplicando-os-problemas/)
+
 
 ### 01. Layout base e Estilização de cabeçalho
 
@@ -41,4 +44,18 @@ Nessa aula, aprendemos:
 ![Estilização de banner](assets/img/prints/Estilizacao_Banner_e_Sobre.png)
 
 ### 03. Estilização das Receitas
+
+**Estilização receitas**
+
+Nessa aula, aprendemos:
+
+- Organização e estrutura de arquivos .css;
+
+- Separação de responsabilidades;
+
+- a criar e manter arquivos menores.
+
+![Estilização receitas](assets/img/prints/Estilizacao_receita.png)
+
+### 04. EStilização do Quem Somos
 
