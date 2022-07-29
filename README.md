@@ -91,7 +91,9 @@ Nessa aula, aprendemos:
 
 ![Responsividade](assets/img/prints/Reponsividade.png)
 
+
 ![Responsividade2](assets/img/prints/Responsividade1.png)
+
 
 ![Responsividade3](assets/img/prints/Responsividade2.png)
 
