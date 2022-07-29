@@ -59,3 +59,40 @@ Nessa aula, aprendemos:
 
 ### 04. EStilização do Quem Somos
 
+Nessa aula, aprendemos:
+
+- Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+
+- Boas práticas com importação de imagens;
+
+- A manter as estilizações nos arquivos de estilo.
+
+**Estilizando imagens**
+
+![Estilização imagens](assets/img/prints/EstilizacaoImagens.png)
+
+**Boas práticas com imagens**
+
+![Boas práticas com imagens](assets/img/prints/BoaPraticasImagens.png)
+
+### 05. Estilização do rodapé e Responsividade
+
+Nessa aula, aprendemos:
+
+-Tornar um site responsivo;
+
+- Como configurar a adaptação do site a diferentes tamanhos de tela.
+
+- Nesse link você encontra o projeto completo com todas as aulas
+
+![Rodape](assets/img/prints/rodape.png)
+
+**Responsividade**
+
+![Responsividade](assets/img/prints/Reponsividade.png)
+
+![Responsividade2](assets/img/prints/Responsividade1.png)
+
+![Responsividade3](assets/img/prints/Responsividade2.png)
+
+
